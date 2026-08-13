@@ -1,0 +1,606 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Applications"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Container"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Database"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Games"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Observability"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Performance"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "System tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "nushell",
+          "description": "An attractive structured shell",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T17:21:03Z",
+            "owner": "nushell",
+            "repo": "nushell",
+            "stars": 40251
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ion",
+          "description": "A modern shell developed for RedoxOS. But is still capable on *nix platforms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-05-02T23:17:30Z",
+            "owner": "redox-os",
+            "repo": "ion",
+            "stars": 1656
+          }
+        }
+      ],
+      "title": "bash/PowerShell/fish"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "eva",
+          "description": "a calculator REPL, similar to bc(1)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-07-31T14:47:31Z",
+            "owner": "oppiliappan",
+            "repo": "eva",
+            "stars": 913
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cpc",
+          "description": "Text calculator with support for units and conversion",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-02T03:11:13Z",
+            "owner": "kasper9n",
+            "repo": "cpc",
+            "stars": 161
+          }
+        }
+      ],
+      "title": "bc"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "choose",
+          "description": "A human-friendly and fast alternative to cut and (sometimes) awk",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-11T13:02:35Z",
+            "owner": "theryangeary",
+            "repo": "choose",
+            "stars": 2261
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hck",
+          "description": "A sharp cut(1) clone",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-15T13:24:14Z",
+            "owner": "sstadick",
+            "repo": "hck",
+            "stars": 742
+          }
+        }
+      ],
+      "title": "cut"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "delta",
+          "description": "A viewer for git and diff output",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-02T00:01:16Z",
+            "owner": "dandavison",
+            "repo": "delta",
+            "stars": 31728
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "difftastic",
+          "description": "A structural diff that understands syntax",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T09:27:31Z",
+            "owner": "Wilfred",
+            "repo": "difftastic",
+            "stars": 25760
+          }
+        }
+      ],
+      "title": "diff"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "dust",
+          "description": "A more intuitive version of du in rust",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T22:55:41Z",
+            "owner": "bootandy",
+            "repo": "dust",
+            "stars": 12113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dua",
+          "description": "View disk space usage and delete unwanted data, fast.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T02:53:12Z",
+            "owner": "Byron",
+            "repo": "dua-cli",
+            "stars": 6123
+          }
+        }
+      ],
+      "title": "du"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "eza",
+          "description": "A replacement for 'ls'",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-06T19:53:22Z",
+            "owner": "eza-community",
+            "repo": "eza",
+            "stars": 22914
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lsd",
+          "description": "An ls with a lot of pretty colors and awesome icons",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-25T17:02:07Z",
+            "owner": "lsd-rs",
+            "repo": "lsd",
+            "stars": 16165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nat",
+          "description": "alternative with useful info and a splash of color 🎨",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2021-05-28T07:12:29Z",
+            "owner": "willdoescode",
+            "repo": "nat",
+            "stars": 1262
+          }
+        }
+      ],
+      "title": "ls"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mise",
+          "description": "dev tools, env vars, task runner",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T03:08:54Z",
+            "owner": "jdx",
+            "repo": "mise",
+            "stars": 32336
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fnm",
+          "description": "🚀 Fast and simple Node.js version manager, built in Rust",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-24T14:28:38Z",
+            "owner": "Schniz",
+            "repo": "fnm",
+            "stars": 26547
+          }
+        }
+      ],
+      "title": "nvm"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "sd",
+          "description": "Intuitive find & replace CLI (sed alternative)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-25T19:26:21Z",
+            "owner": "chmln",
+            "repo": "sd",
+            "stars": 7295
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sad",
+          "description": "CLI search and replace | Space Age seD",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-05-11T01:13:50Z",
+            "owner": "ms-jpq",
+            "repo": "sad",
+            "stars": 2044
+          }
+        }
+      ],
+      "title": "sed"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "navi",
+          "description": "An interactive cheatsheet tool for the command-line",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-28T09:05:10Z",
+            "owner": "denisidoro",
+            "repo": "navi",
+            "stars": 17423
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tealdeer",
+          "description": "A very fast implementation of tldr in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T23:48:40Z",
+            "owner": "tealdeer-rs",
+            "repo": "tealdeer",
+            "stars": 6415
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "intelli-shell",
+          "description": "Like IntelliSense, but for shells",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-26T19:15:53Z",
+            "owner": "lasantosr",
+            "repo": "intelli-shell",
+            "stars": 1271
+          }
+        }
+      ],
+      "title": "tldr"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "bottom",
+          "description": "Yet another cross-platform graphical process/system monitor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T00:40:43Z",
+            "owner": "ClementTsang",
+            "repo": "bottom",
+            "stars": 13881
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zenith",
+          "description": "A terminal system monitor with zoomable charts",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-13T15:16:01Z",
+            "owner": "bvaisvil",
+            "repo": "zenith",
+            "stars": 3044
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ytop",
+          "description": "(no longer maintained) - A TUI system monitor written in Rust",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2020-08-29T01:04:42Z",
+            "owner": "cjbassi",
+            "repo": "ytop",
+            "stars": 2161
+          }
+        }
+      ],
+      "title": "top"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Terminal"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Alacritty",
+          "description": "A cross-platform, OpenGL terminal emulator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-03T08:50:06Z",
+            "owner": "alacritty",
+            "repo": "alacritty",
+            "stars": 65341
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WezTerm",
+          "description": "A GPU-accelerated cross-platform terminal emulator and multiplexer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T06:01:57Z",
+            "owner": "wezterm",
+            "repo": "wezterm",
+            "stars": 28325
+          }
+        }
+      ],
+      "title": "termite"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Text editors"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Helix",
+          "description": "A post-modern modal text editor",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T23:23:12Z",
+            "owner": "helix-editor",
+            "repo": "helix",
+            "stars": 45808
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Amp",
+          "description": "A complete text editor for your terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-10T02:01:13Z",
+            "owner": "jmacdonald",
+            "repo": "amp",
+            "stars": 4119
+          }
+        }
+      ],
+      "title": "Vim"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Text processing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Utilities"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Web"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Development tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Command runners"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Compilers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Linters"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RSLint",
+          "description": "A (WIP) Extremely fast JavaScript and TypeScript linter and Rust crate",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-03-05T13:40:47Z",
+            "owner": "rslint",
+            "repo": "rslint",
+            "stars": 2731
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "deno_lint",
+          "description": "Blazing fast linter for JavaScript and TypeScript written in Rust",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-23T12:51:44Z",
+            "owner": "denoland",
+            "repo": "deno_lint",
+            "stars": 1585
+          }
+        }
+      ],
+      "title": "ESLint"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Runtimes"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Libraries"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Email"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Machine learning"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Message queues"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Search"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:56:11.101Z",
+    "original_repository": "TaKO8Ki/awesome-alternatives-in-rust",
+    "original_repository_sha": "b188b92fbbed280b395cc8a9ccb43e9f86b97794",
+    "enhanced_repository": "enhansome/enhansome-alternatives-in-rust",
+    "enhanced_repository_description": null,
+    "title": "Awesome Alternatives in Rust with stars"
+  }
+}
