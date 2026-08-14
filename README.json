@@ -46,10 +46,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T11:44:40Z",
+            "last_commit": "2026-08-14T15:00:08Z",
             "owner": "nushell",
             "repo": "nushell",
-            "stars": 40258
+            "stars": 40265
           }
         },
         {
@@ -151,7 +151,7 @@
             "last_commit": "2026-08-02T00:01:16Z",
             "owner": "dandavison",
             "repo": "delta",
-            "stars": 31734
+            "stars": 31749
           }
         },
         {
@@ -162,10 +162,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T08:52:58Z",
+            "last_commit": "2026-08-14T08:40:12Z",
             "owner": "Wilfred",
             "repo": "difftastic",
-            "stars": 25765
+            "stars": 25769
           }
         }
       ],
@@ -182,10 +182,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T07:17:42Z",
+            "last_commit": "2026-08-13T22:40:55Z",
             "owner": "bootandy",
             "repo": "dust",
-            "stars": 12116
+            "stars": 12120
           }
         },
         {
@@ -196,10 +196,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-12T02:53:12Z",
+            "last_commit": "2026-08-14T14:36:13Z",
             "owner": "Byron",
             "repo": "dua-cli",
-            "stars": 6124
+            "stars": 6130
           }
         }
       ],
@@ -219,7 +219,7 @@
             "last_commit": "2026-08-06T19:53:22Z",
             "owner": "eza-community",
             "repo": "eza",
-            "stars": 22921
+            "stars": 22926
           }
         },
         {
@@ -233,7 +233,7 @@
             "last_commit": "2026-07-25T17:02:07Z",
             "owner": "lsd-rs",
             "repo": "lsd",
-            "stars": 16165
+            "stars": 16167
           }
         },
         {
@@ -247,7 +247,7 @@
             "last_commit": "2021-05-28T07:12:29Z",
             "owner": "willdoescode",
             "repo": "nat",
-            "stars": 1262
+            "stars": 1261
           }
         }
       ],
@@ -264,10 +264,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T15:45:37Z",
+            "last_commit": "2026-08-14T15:37:51Z",
             "owner": "jdx",
             "repo": "mise",
-            "stars": 32362
+            "stars": 32404
           }
         },
         {
@@ -281,7 +281,7 @@
             "last_commit": "2026-07-24T14:28:38Z",
             "owner": "Schniz",
             "repo": "fnm",
-            "stars": 26558
+            "stars": 26567
           }
         }
       ],
@@ -301,7 +301,7 @@
             "last_commit": "2026-02-25T19:26:21Z",
             "owner": "chmln",
             "repo": "sd",
-            "stars": 7296
+            "stars": 7298
           }
         },
         {
@@ -335,7 +335,7 @@
             "last_commit": "2026-07-28T09:05:10Z",
             "owner": "denisidoro",
             "repo": "navi",
-            "stars": 17425
+            "stars": 17428
           }
         },
         {
@@ -349,7 +349,7 @@
             "last_commit": "2026-08-12T23:48:40Z",
             "owner": "tealdeer-rs",
             "repo": "tealdeer",
-            "stars": 6417
+            "stars": 6421
           }
         },
         {
@@ -380,10 +380,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T10:02:23Z",
+            "last_commit": "2026-08-14T01:53:31Z",
             "owner": "ClementTsang",
             "repo": "bottom",
-            "stars": 13883
+            "stars": 13885
           }
         },
         {
@@ -436,7 +436,7 @@
             "last_commit": "2026-08-03T08:50:06Z",
             "owner": "alacritty",
             "repo": "alacritty",
-            "stars": 65351
+            "stars": 65365
           }
         },
         {
@@ -450,7 +450,7 @@
             "last_commit": "2026-08-12T06:01:57Z",
             "owner": "wezterm",
             "repo": "wezterm",
-            "stars": 28335
+            "stars": 28355
           }
         }
       ],
@@ -475,7 +475,7 @@
             "last_commit": "2026-08-11T23:23:12Z",
             "owner": "helix-editor",
             "repo": "helix",
-            "stars": 45815
+            "stars": 45827
           }
         },
         {
@@ -596,7 +596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T15:48:15.117Z",
+    "last_updated": "2026-08-14T15:41:01.617Z",
     "original_repository": "TaKO8Ki/awesome-alternatives-in-rust",
     "original_repository_sha": "b188b92fbbed280b395cc8a9ccb43e9f86b97794",
     "enhanced_repository": "enhansome/enhansome-alternatives-in-rust",
