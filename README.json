@@ -6,17 +6,33 @@
         {
           "children": [
             {
-              "children": [],
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "youki",
+                  "description": "An experimental container runtime written in Rust",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 352051262,
+                    "language": "Rust",
+                    "last_commit": "2026-08-24T00:56:18Z",
+                    "owner": "youki-dev",
+                    "repo": "youki",
+                    "stars": 7563
+                  }
+                }
+              ],
               "description": null,
               "node_type": "item",
               "repo_info": {
                 "archived": false,
                 "id": 36960321,
                 "language": "Go",
-                "last_commit": "2026-08-20T04:52:25Z",
+                "last_commit": "2026-08-24T05:49:20Z",
                 "owner": "opencontainers",
                 "repo": "runc",
-                "stars": 13407
+                "stars": 13409
               },
               "title": "runc"
             }
@@ -28,17 +44,33 @@
         {
           "children": [
             {
-              "children": [],
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "pgrust",
+                  "description": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1215569807,
+                    "language": "Rust",
+                    "last_commit": "2026-08-13T04:01:40Z",
+                    "owner": "malisper",
+                    "repo": "pgrust",
+                    "stars": 4664
+                  }
+                }
+              ],
               "description": null,
               "node_type": "item",
               "repo_info": {
                 "archived": false,
                 "id": 927442,
                 "language": "C",
-                "last_commit": "2026-08-22T18:51:00Z",
+                "last_commit": "2026-08-24T12:31:35Z",
                 "owner": "postgres",
                 "repo": "postgres",
-                "stars": 21877
+                "stars": 21885
               },
               "title": "PostgreSQL"
             }
@@ -50,7 +82,23 @@
         {
           "children": [
             {
-              "children": [],
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Pleco",
+                  "description": "A Rust-based re-write of the Stockfish Chess Engine",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 91042003,
+                    "language": "Rust",
+                    "last_commit": "2026-02-22T23:41:20Z",
+                    "owner": "pleco-rs",
+                    "repo": "Pleco",
+                    "stars": 432
+                  }
+                }
+              ],
               "description": null,
               "node_type": "item",
               "repo_info": {
@@ -60,7 +108,7 @@
                 "last_commit": "2026-08-20T06:53:23Z",
                 "owner": "official-stockfish",
                 "repo": "Stockfish",
-                "stars": 16389
+                "stars": 16397
               },
               "title": "Stockfish"
             }
@@ -72,17 +120,33 @@
         {
           "children": [
             {
-              "children": [],
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Quickwit",
+                  "description": "A cloud-native search engine for observability written in Rust",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 357707809,
+                    "language": "Rust",
+                    "last_commit": "2026-08-21T20:26:17Z",
+                    "owner": "quickwit-oss",
+                    "repo": "quickwit",
+                    "stars": 11538
+                  }
+                }
+              ],
               "description": null,
               "node_type": "item",
               "repo_info": {
                 "archived": false,
                 "id": 507775,
                 "language": "Java",
-                "last_commit": "2026-08-23T10:06:41Z",
+                "last_commit": "2026-08-24T13:59:25Z",
                 "owner": "elastic",
                 "repo": "elasticsearch",
-                "stars": 77853
+                "stars": 77856
               },
               "title": "Elasticsearch"
             }
@@ -94,7 +158,23 @@
         {
           "children": [
             {
-              "children": [],
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "drill",
+                  "description": "A HTTP load testing application written in Rust",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 91699290,
+                    "language": "Rust",
+                    "last_commit": "2026-07-29T05:59:50Z",
+                    "owner": "fcsonline",
+                    "repo": "drill",
+                    "stars": 2307
+                  }
+                }
+              ],
               "description": null,
               "node_type": "item",
               "repo_info": {
@@ -104,7 +184,7 @@
                 "last_commit": "2026-08-14T19:33:43Z",
                 "owner": "apache",
                 "repo": "jmeter",
-                "stars": 9517
+                "stars": 9518
               },
               "title": "jMeter"
             }
@@ -119,6 +199,50 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "zoxide",
+                  "description": "A smarter cd command for your terminal.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 245166720,
+                    "language": "Rust",
+                    "last_commit": "2026-08-24T02:58:01Z",
+                    "owner": "ajeetdsouza",
+                    "repo": "zoxide",
+                    "stars": 38806
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "autojump / z"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "frawk",
+                  "description": "an efficient awk-like language",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 197134490,
+                    "language": "Rust",
+                    "last_commit": "2025-09-26T04:45:49Z",
+                    "owner": "ezrosent",
+                    "repo": "frawk",
+                    "stars": 1315
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "awk"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "nushell",
                   "description": "An attractive structured shell",
                   "children": [],
@@ -126,10 +250,10 @@
                     "archived": false,
                     "id": 186024298,
                     "language": "Rust",
-                    "last_commit": "2026-08-23T10:15:00Z",
+                    "last_commit": "2026-08-24T13:15:55Z",
                     "owner": "nushell",
                     "repo": "nushell",
-                    "stars": 40319
+                    "stars": 40323
                   }
                 },
                 {
@@ -190,7 +314,45 @@
               "title": "bc"
             },
             {
-              "children": [],
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "bat",
+                  "description": "A cat(1) clone with wings.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 130464961,
+                    "language": "Rust",
+                    "last_commit": "2026-08-11T14:39:20Z",
+                    "owner": "sharkdp",
+                    "repo": "bat",
+                    "stars": 60239
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "cat"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "tokei",
+                  "description": "Count your code, quickly.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 36323226,
+                    "language": "Rust",
+                    "last_commit": "2026-05-06T16:44:01Z",
+                    "owner": "XAMPPRocky",
+                    "repo": "tokei",
+                    "stars": 14848
+                  }
+                }
+              ],
               "description": null,
               "node_type": "item",
               "repo_info": {
@@ -200,12 +362,28 @@
                 "last_commit": "2026-08-08T13:26:32Z",
                 "owner": "AlDanial",
                 "repo": "cloc",
-                "stars": 23456
+                "stars": 23457
               },
               "title": "cloc"
             },
             {
-              "children": [],
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "oreboot",
+                  "description": "oreboot is a fork of coreboot, with C removed, written in Rust.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 173800499,
+                    "language": "Rust",
+                    "last_commit": "2026-07-13T09:37:06Z",
+                    "owner": "oreboot",
+                    "repo": "oreboot",
+                    "stars": 1794
+                  }
+                }
+              ],
               "description": null,
               "node_type": "item",
               "repo_info": {
@@ -215,9 +393,31 @@
                 "last_commit": "2026-08-20T00:01:49Z",
                 "owner": "coreboot",
                 "repo": "coreboot",
-                "stars": 2773
+                "stars": 2775
               },
               "title": "coreboot"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "xcp",
+                  "description": "An extended",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 158616763,
+                    "language": "Rust",
+                    "last_commit": "2026-06-23T06:38:18Z",
+                    "owner": "tarka",
+                    "repo": "xcp",
+                    "stars": 927
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "cp"
             },
             {
               "children": [
@@ -233,7 +433,7 @@
                     "last_commit": "2026-06-11T13:02:35Z",
                     "owner": "theryangeary",
                     "repo": "choose",
-                    "stars": 2262
+                    "stars": 2264
                   }
                 },
                 {
@@ -270,7 +470,7 @@
                     "last_commit": "2026-08-02T00:01:16Z",
                     "owner": "dandavison",
                     "repo": "delta",
-                    "stars": 31836
+                    "stars": 31846
                   }
                 },
                 {
@@ -285,13 +485,35 @@
                     "last_commit": "2026-08-23T12:03:29Z",
                     "owner": "Wilfred",
                     "repo": "difftastic",
-                    "stars": 25810
+                    "stars": 25812
                   }
                 }
               ],
               "description": null,
               "node_type": "group",
               "title": "diff"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "dog",
+                  "description": "A command-line DNS client.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 258827107,
+                    "language": "Rust",
+                    "last_commit": "2024-05-29T11:36:13Z",
+                    "owner": "ogham",
+                    "repo": "dog",
+                    "stars": 6688
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "dig"
             },
             {
               "children": [
@@ -307,7 +529,7 @@
                     "last_commit": "2026-08-19T19:59:33Z",
                     "owner": "bootandy",
                     "repo": "dust",
-                    "stars": 12165
+                    "stars": 12176
                   }
                 },
                 {
@@ -319,10 +541,10 @@
                     "archived": false,
                     "id": 189215168,
                     "language": "Rust",
-                    "last_commit": "2026-08-16T05:14:51Z",
+                    "last_commit": "2026-08-24T10:19:30Z",
                     "owner": "Byron",
                     "repo": "dua-cli",
-                    "stars": 6162
+                    "stars": 6171
                   }
                 }
               ],
@@ -331,37 +553,129 @@
               "title": "du"
             },
             {
-              "children": [],
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "fd",
+                  "description": "A simple, fast and user-friendly alternative to 'find'",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 90793418,
+                    "language": "Rust",
+                    "last_commit": "2026-08-11T17:42:55Z",
+                    "owner": "sharkdp",
+                    "repo": "fd",
+                    "stars": 44187
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "find"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "skim",
+                  "description": "Fuzzy Finder in rust!",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 59929513,
+                    "language": "Rust",
+                    "last_commit": "2026-08-22T16:05:01Z",
+                    "owner": "skim-rs",
+                    "repo": "skim",
+                    "stars": 6933
+                  }
+                }
+              ],
               "description": null,
               "node_type": "item",
               "repo_info": {
                 "archived": false,
                 "id": 13807606,
                 "language": "Go",
-                "last_commit": "2026-08-23T14:23:51Z",
+                "last_commit": "2026-08-24T01:02:41Z",
                 "owner": "junegunn",
                 "repo": "fzf",
-                "stars": 82617
+                "stars": 82633
               },
               "title": "fzf"
             },
             {
-              "children": [],
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "coreutils",
+                  "description": "Cross-platform Rust rewrite of the GNU coreutils",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 11847500,
+                    "language": "Rust",
+                    "last_commit": "2026-08-24T12:47:34Z",
+                    "owner": "uutils",
+                    "repo": "coreutils",
+                    "stars": 23988
+                  }
+                }
+              ],
               "description": null,
               "node_type": "item",
               "repo_info": {
                 "archived": false,
                 "id": 11233590,
                 "language": "C",
-                "last_commit": "2026-08-23T03:14:49Z",
+                "last_commit": "2026-08-24T05:55:50Z",
                 "owner": "coreutils",
                 "repo": "coreutils",
-                "stars": 5262
+                "stars": 5263
               },
               "title": "GNU coreutils"
             },
             {
-              "children": [],
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "hexyl",
+                  "description": "A command-line hex viewer",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 156294298,
+                    "language": "Rust",
+                    "last_commit": "2026-04-30T08:24:07Z",
+                    "owner": "sharkdp",
+                    "repo": "hexyl",
+                    "stars": 10263
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "hexdump"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "xh",
+                  "description": "Friendly and fast tool for sending HTTP requests",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 294521053,
+                    "language": "Rust",
+                    "last_commit": "2026-08-23T11:18:23Z",
+                    "owner": "ducaale",
+                    "repo": "xh",
+                    "stars": 8038
+                  }
+                }
+              ],
               "description": null,
               "node_type": "item",
               "repo_info": {
@@ -371,7 +685,7 @@
                 "last_commit": "2024-12-17T17:30:35Z",
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38447
+                "stars": 38446
               },
               "title": "httpie"
             },
@@ -389,7 +703,7 @@
                     "last_commit": "2026-08-06T19:53:22Z",
                     "owner": "eza-community",
                     "repo": "eza",
-                    "stars": 23014
+                    "stars": 23022
                   }
                 },
                 {
@@ -404,7 +718,7 @@
                     "last_commit": "2026-08-17T07:13:43Z",
                     "owner": "lsd-rs",
                     "repo": "lsd",
-                    "stars": 16189
+                    "stars": 16191
                   }
                 },
                 {
@@ -438,10 +752,10 @@
                     "archived": false,
                     "id": 586920414,
                     "language": "Rust",
-                    "last_commit": "2026-08-23T14:51:34Z",
+                    "last_commit": "2026-08-24T13:47:10Z",
                     "owner": "jdx",
                     "repo": "mise",
-                    "stars": 32863
+                    "stars": 32927
                   }
                 },
                 {
@@ -456,7 +770,7 @@
                     "last_commit": "2026-07-24T14:28:38Z",
                     "owner": "Schniz",
                     "repo": "fnm",
-                    "stars": 26662
+                    "stars": 26681
                   }
                 }
               ],
@@ -469,12 +783,28 @@
                 "last_commit": "2026-08-18T06:42:47Z",
                 "owner": "nvm-sh",
                 "repo": "nvm",
-                "stars": 94699
+                "stars": 94710
               },
               "title": "nvm"
             },
             {
-              "children": [],
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "broot",
+                  "description": "A better way to navigate directories",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 157766521,
+                    "language": "Rust",
+                    "last_commit": "2026-08-23T16:19:27Z",
+                    "owner": "Canop",
+                    "repo": "broot",
+                    "stars": 12907
+                  }
+                }
+              ],
               "description": null,
               "node_type": "item",
               "repo_info": {
@@ -484,12 +814,50 @@
                 "last_commit": "2026-08-16T09:20:03Z",
                 "owner": "MidnightCommander",
                 "repo": "mc",
-                "stars": 951
+                "stars": 953
               },
               "title": "Midnight Commander"
             },
             {
-              "children": [],
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "procs",
+                  "description": "A modern replacement for ps written in Rust",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 167957539,
+                    "language": "Rust",
+                    "last_commit": "2026-08-17T20:09:04Z",
+                    "owner": "dalance",
+                    "repo": "procs",
+                    "stars": 6142
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "ps"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "frum",
+                  "description": "A little bit fast and modern Ruby version manager written in Rust",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 345714504,
+                    "language": "Rust",
+                    "last_commit": "2022-05-13T14:49:42Z",
+                    "owner": "TaKO8Ki",
+                    "repo": "frum",
+                    "stars": 655
+                  }
+                }
+              ],
               "description": null,
               "node_type": "item",
               "repo_info": {
@@ -499,9 +867,53 @@
                 "last_commit": "2026-07-14T14:02:43Z",
                 "owner": "rbenv",
                 "repo": "rbenv",
-                "stars": 16733
+                "stars": 16736
               },
               "title": "rbenv"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "rnr",
+                  "description": "A command-line tool to batch rename files and directories",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 140597469,
+                    "language": "Rust",
+                    "last_commit": "2026-03-21T10:55:26Z",
+                    "owner": "ismaelgv",
+                    "repo": "rnr",
+                    "stars": 594
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "rename"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "rip",
+                  "description": "A safe and ergonomic alternative to rm",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 66990157,
+                    "language": "Rust",
+                    "last_commit": "2024-04-08T14:17:34Z",
+                    "owner": "nivekuil",
+                    "repo": "rip",
+                    "stars": 1729
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "rm"
             },
             {
               "children": [
@@ -517,7 +929,7 @@
                     "last_commit": "2026-02-25T19:26:21Z",
                     "owner": "chmln",
                     "repo": "sd",
-                    "stars": 7311
+                    "stars": 7319
                   }
                 },
                 {
@@ -544,6 +956,72 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "stringsext",
+                  "description": "Find multi-byte-encoded strings in binary data",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 72929571,
+                    "language": "Rust",
+                    "last_commit": "2026-06-24T09:20:11Z",
+                    "owner": "getreu",
+                    "repo": "stringsext",
+                    "stars": 133
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "strings"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "systeroid",
+                  "description": "A more powerful alternative to with a terminal user interface",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 418262662,
+                    "language": "Rust",
+                    "last_commit": "2026-07-30T23:11:30Z",
+                    "owner": "orhun",
+                    "repo": "systeroid",
+                    "stars": 1462
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "sysctl"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "hyperfine",
+                  "description": "A command-line benchmarking tool",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 117356231,
+                    "language": "Rust",
+                    "last_commit": "2026-04-30T08:23:25Z",
+                    "owner": "sharkdp",
+                    "repo": "hyperfine",
+                    "stars": 28718
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "time"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "navi",
                   "description": "An interactive cheatsheet tool for the command-line",
                   "children": [],
@@ -554,7 +1032,7 @@
                     "last_commit": "2026-07-28T09:05:10Z",
                     "owner": "denisidoro",
                     "repo": "navi",
-                    "stars": 17469
+                    "stars": 17473
                   }
                 },
                 {
@@ -569,7 +1047,7 @@
                     "last_commit": "2026-08-19T16:41:44Z",
                     "owner": "tealdeer-rs",
                     "repo": "tealdeer",
-                    "stars": 6454
+                    "stars": 6457
                   }
                 },
                 {
@@ -594,10 +1072,10 @@
                 "archived": false,
                 "id": 15019962,
                 "language": "Markdown",
-                "last_commit": "2026-08-23T14:11:51Z",
+                "last_commit": "2026-08-24T13:43:39Z",
                 "owner": "tldr-pages",
                 "repo": "tldr",
-                "stars": 63458
+                "stars": 63468
               },
               "title": "tldr"
             },
@@ -612,10 +1090,10 @@
                     "archived": false,
                     "id": 205042455,
                     "language": "Rust",
-                    "last_commit": "2026-08-22T00:27:47Z",
+                    "last_commit": "2026-08-24T05:07:13Z",
                     "owner": "ClementTsang",
                     "repo": "bottom",
-                    "stars": 13924
+                    "stars": 13923
                   }
                 },
                 {
@@ -627,7 +1105,7 @@
                     "archived": false,
                     "id": 208680637,
                     "language": "Rust",
-                    "last_commit": "2026-07-13T15:16:01Z",
+                    "last_commit": "2026-08-24T00:06:36Z",
                     "owner": "bvaisvil",
                     "repo": "zenith",
                     "stars": 3043
@@ -654,7 +1132,67 @@
               "title": "top"
             },
             {
-              "children": [],
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "huniq",
+                  "description": "Filter out duplicates on the command line.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 234530227,
+                    "language": "Rust",
+                    "last_commit": "2024-01-26T08:41:49Z",
+                    "owner": "koraa",
+                    "repo": "huniq",
+                    "stars": 265
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "uniq"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "rargs",
+                  "description": "A kind of xargs + awk with pattern-matching support.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 128610722,
+                    "language": "Rust",
+                    "last_commit": "2023-07-30T08:34:10Z",
+                    "owner": "lotabout",
+                    "repo": "rargs",
+                    "stars": 570
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "xargs"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "paru",
+                  "description": "Feature packed AUR helper",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 285393031,
+                    "language": "Rust",
+                    "last_commit": "2026-01-09T07:31:27Z",
+                    "owner": "Morganamilo",
+                    "repo": "paru",
+                    "stars": 8953
+                  }
+                }
+              ],
               "description": null,
               "node_type": "item",
               "repo_info": {
@@ -664,7 +1202,7 @@
                 "last_commit": "2026-08-22T11:05:59Z",
                 "owner": "Jguer",
                 "repo": "yay",
-                "stars": 13699
+                "stars": 13701
               },
               "title": "yay"
             }
@@ -676,7 +1214,23 @@
         {
           "children": [
             {
-              "children": [],
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "starship",
+                  "description": "☄️🌌 The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 178991158,
+                    "language": "Rust",
+                    "last_commit": "2026-08-24T07:09:40Z",
+                    "owner": "starship",
+                    "repo": "starship",
+                    "stars": 59565
+                  }
+                }
+              ],
               "description": null,
               "node_type": "item",
               "repo_info": {
@@ -686,7 +1240,7 @@
                 "last_commit": "2026-08-05T22:32:54Z",
                 "owner": "spaceship-prompt",
                 "repo": "spaceship-prompt",
-                "stars": 20559
+                "stars": 20560
               },
               "title": "Spaceship"
             },
@@ -704,7 +1258,7 @@
                     "last_commit": "2026-08-17T19:36:06Z",
                     "owner": "alacritty",
                     "repo": "alacritty",
-                    "stars": 65472
+                    "stars": 65483
                   }
                 },
                 {
@@ -716,10 +1270,10 @@
                     "archived": false,
                     "id": 120568143,
                     "language": "Rust",
-                    "last_commit": "2026-08-20T07:51:14Z",
+                    "last_commit": "2026-08-24T05:41:20Z",
                     "owner": "wezterm",
                     "repo": "wezterm",
-                    "stars": 28509
+                    "stars": 28524
                   }
                 }
               ],
@@ -737,17 +1291,33 @@
               "title": "termite"
             },
             {
-              "children": [],
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Zellij",
+                  "description": "A terminal workspace with batteries included",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 292014229,
+                    "language": "Rust",
+                    "last_commit": "2026-08-24T13:56:29Z",
+                    "owner": "zellij-org",
+                    "repo": "zellij",
+                    "stars": 35088
+                  }
+                }
+              ],
               "description": null,
               "node_type": "item",
               "repo_info": {
                 "archived": false,
                 "id": 36836475,
                 "language": "C",
-                "last_commit": "2026-08-22T20:30:27Z",
+                "last_commit": "2026-08-24T12:36:38Z",
                 "owner": "tmux",
                 "repo": "tmux",
-                "stars": 48775
+                "stars": 48791
               },
               "title": "tmux"
             }
@@ -772,7 +1342,7 @@
                     "last_commit": "2026-08-18T23:23:16Z",
                     "owner": "helix-editor",
                     "repo": "helix",
-                    "stars": 45917
+                    "stars": 45921
                   }
                 },
                 {
@@ -787,7 +1357,7 @@
                     "last_commit": "2026-06-10T02:01:13Z",
                     "owner": "jmacdonald",
                     "repo": "amp",
-                    "stars": 4121
+                    "stars": 4123
                   }
                 }
               ],
@@ -803,7 +1373,52 @@
         {
           "children": [
             {
-              "children": [],
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ripgrep",
+                  "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 53631945,
+                    "language": "Rust",
+                    "last_commit": "2026-08-04T13:59:44Z",
+                    "owner": "BurntSushi",
+                    "repo": "ripgrep",
+                    "stars": 67554
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "grep"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Text processing"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "fastmod",
+                  "description": "A fast partial replacement for the codemod tool",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 129819016,
+                    "language": "Rust",
+                    "last_commit": "2026-07-28T17:37:32Z",
+                    "owner": "facebookincubator",
+                    "repo": "fastmod",
+                    "stars": 1923
+                  }
+                }
+              ],
               "description": null,
               "node_type": "item",
               "repo_info": {
@@ -818,7 +1433,23 @@
               "title": "codemod"
             },
             {
-              "children": [],
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "jql",
+                  "description": "A JSON Query Language CLI tool built with Rust 🦀",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 147120314,
+                    "language": "Rust",
+                    "last_commit": "2026-03-18T13:18:28Z",
+                    "owner": "yamafaktory",
+                    "repo": "jql",
+                    "stars": 1673
+                  }
+                }
+              ],
               "description": null,
               "node_type": "item",
               "repo_info": {
@@ -828,12 +1459,28 @@
                 "last_commit": "2026-08-23T15:06:16Z",
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35474
+                "stars": 35478
               },
               "title": "jq"
             },
             {
-              "children": [],
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "gitui",
+                  "description": "Blazing fast terminal-ui for git written in Rust 🦀",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 247725846,
+                    "language": "Rust",
+                    "last_commit": "2026-08-04T08:27:21Z",
+                    "owner": "gitui-org",
+                    "repo": "gitui",
+                    "stars": 22427
+                  }
+                }
+              ],
               "description": null,
               "node_type": "item",
               "repo_info": {
@@ -843,12 +1490,28 @@
                 "last_commit": "2026-08-21T11:34:49Z",
                 "owner": "jesseduffield",
                 "repo": "lazygit",
-                "stars": 81570
+                "stars": 81591
               },
               "title": "lazygit"
             },
             {
-              "children": [],
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Furtherance",
+                  "description": "Time-tracking app written in Rust",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 460901189,
+                    "language": "Rust",
+                    "last_commit": "2026-02-17T06:35:41Z",
+                    "owner": "unobserved-io",
+                    "repo": "Furtherance",
+                    "stars": 395
+                  }
+                }
+              ],
               "description": null,
               "node_type": "item",
               "repo_info": {
@@ -866,6 +1529,57 @@
           "description": null,
           "node_type": "group",
           "title": "Utilities"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Lemmy",
+                  "description": "🐀 Building a federated alternative to reddit in rust",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 170729130,
+                    "language": "Rust",
+                    "last_commit": "2026-08-18T05:19:19Z",
+                    "owner": "LemmyNet",
+                    "repo": "lemmy",
+                    "stars": 14565
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Reddit"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "libreddit",
+                  "description": "Private front-end for Reddit written in Rust",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 286875790,
+                    "language": "Rust",
+                    "last_commit": "2025-02-15T19:11:02Z",
+                    "owner": "libreddit",
+                    "repo": "libreddit",
+                    "stars": 5199
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "teddit"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Web"
         }
       ],
       "title": "Applications"
@@ -876,17 +1590,62 @@
         {
           "children": [
             {
-              "children": [],
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "just",
+                  "description": "A command runner and partial replacement for",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 61349723,
+                    "language": "Rust",
+                    "last_commit": "2026-08-20T23:01:29Z",
+                    "owner": "casey",
+                    "repo": "just",
+                    "stars": 35449
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "make"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Command runners"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "SWC",
+                  "description": "A Rust-based platform for the web",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 115110181,
+                    "language": "Rust",
+                    "last_commit": "2026-08-24T11:50:59Z",
+                    "owner": "swc-project",
+                    "repo": "swc",
+                    "stars": 34184
+                  }
+                }
+              ],
               "description": null,
               "node_type": "item",
               "repo_info": {
                 "archived": false,
                 "id": 20929025,
                 "language": "Go",
-                "last_commit": "2026-08-21T21:39:39Z",
+                "last_commit": "2026-08-24T01:47:42Z",
                 "owner": "microsoft",
                 "repo": "TypeScript",
-                "stars": 110612
+                "stars": 110650
               },
               "title": "TypeScript Compiler"
             }
@@ -936,15 +1695,31 @@
                 "archived": false,
                 "id": 11061773,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T12:41:55Z",
+                "last_commit": "2026-08-24T11:47:55Z",
                 "owner": "eslint",
                 "repo": "eslint",
-                "stars": 27476
+                "stars": 27478
               },
               "title": "ESLint"
             },
             {
-              "children": [],
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Ruff",
+                  "description": "An extremely fast Python linter and code formatter written in Rust",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 523043277,
+                    "language": "Rust",
+                    "last_commit": "2026-08-24T14:01:05Z",
+                    "owner": "astral-sh",
+                    "repo": "ruff",
+                    "stars": 49298
+                  }
+                }
+              ],
               "description": null,
               "node_type": "item",
               "repo_info": {
@@ -954,27 +1729,59 @@
                 "last_commit": "2026-08-17T23:41:40Z",
                 "owner": "PyCQA",
                 "repo": "flake8",
-                "stars": 3816
+                "stars": 3817
               },
               "title": "Flake8"
             },
             {
-              "children": [],
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "dprint",
+                  "description": "Pluggable and configurable code formatting platform written in Rust.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 192136193,
+                    "language": "Rust",
+                    "last_commit": "2026-08-21T20:58:58Z",
+                    "owner": "dprint",
+                    "repo": "dprint",
+                    "stars": 4049
+                  }
+                }
+              ],
               "description": null,
               "node_type": "item",
               "repo_info": {
                 "archived": false,
                 "id": 75104123,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T08:13:56Z",
+                "last_commit": "2026-08-24T13:46:55Z",
                 "owner": "prettier",
                 "repo": "prettier",
-                "stars": 52212
+                "stars": 52213
               },
               "title": "Prettier"
             },
             {
-              "children": [],
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Shellharden",
+                  "description": "The corrective bash syntax highlighter",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 79505000,
+                    "language": "Rust",
+                    "last_commit": "2026-07-09T22:28:20Z",
+                    "owner": "anordal",
+                    "repo": "shellharden",
+                    "stars": 4798
+                  }
+                }
+              ],
               "description": null,
               "node_type": "item",
               "repo_info": {
@@ -984,7 +1791,7 @@
                 "last_commit": "2026-08-04T08:32:46Z",
                 "owner": "koalaman",
                 "repo": "shellcheck",
-                "stars": 39913
+                "stars": 39915
               },
               "title": "ShellCheck"
             }
@@ -996,32 +1803,64 @@
         {
           "children": [
             {
-              "children": [],
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Deno",
+                  "description": "A modern runtime for JavaScript and TypeScript written in Rust",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 133442384,
+                    "language": "Rust",
+                    "last_commit": "2026-08-24T13:12:44Z",
+                    "owner": "denoland",
+                    "repo": "deno",
+                    "stars": 108295
+                  }
+                }
+              ],
               "description": null,
               "node_type": "item",
               "repo_info": {
                 "archived": false,
                 "id": 27193779,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T15:09:16Z",
+                "last_commit": "2026-08-24T12:43:37Z",
                 "owner": "nodejs",
                 "repo": "node",
-                "stars": 119308
+                "stars": 119338
               },
               "title": "Node.js"
             },
             {
-              "children": [],
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "RustPython",
+                  "description": "A Python interpreter written in Rust",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 135201145,
+                    "language": "Rust",
+                    "last_commit": "2026-08-24T13:27:05Z",
+                    "owner": "RustPython",
+                    "repo": "RustPython",
+                    "stars": 22301
+                  }
+                }
+              ],
               "description": null,
               "node_type": "item",
               "repo_info": {
                 "archived": false,
                 "id": 81598961,
                 "language": "Python",
-                "last_commit": "2026-08-23T14:50:09Z",
+                "last_commit": "2026-08-24T11:34:41Z",
                 "owner": "python",
                 "repo": "cpython",
-                "stars": 74714
+                "stars": 74731
               },
               "title": "Python"
             }
@@ -1039,7 +1878,23 @@
         {
           "children": [
             {
-              "children": [],
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "mrml",
+                  "description": "Blazing fast reimplementation of mjml in Rust (~200x faster)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 263044305,
+                    "language": "HTML",
+                    "last_commit": "2026-08-11T18:09:55Z",
+                    "owner": "jdrouet",
+                    "repo": "mrml",
+                    "stars": 504
+                  }
+                }
+              ],
               "description": null,
               "node_type": "item",
               "repo_info": {
@@ -1049,7 +1904,7 @@
                 "last_commit": "2026-08-17T11:50:39Z",
                 "owner": "mjmlio",
                 "repo": "mjml",
-                "stars": 18206
+                "stars": 18209
               },
               "title": "mjml"
             }
@@ -1061,17 +1916,33 @@
         {
           "children": [
             {
-              "children": [],
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "tch-rs",
+                  "description": "Rust bindings for the C++ API of PyTorch",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 171052201,
+                    "language": "Rust",
+                    "last_commit": "2026-08-23T16:46:54Z",
+                    "owner": "LaurentMazare",
+                    "repo": "tch-rs",
+                    "stars": 5477
+                  }
+                }
+              ],
               "description": null,
               "node_type": "item",
               "repo_info": {
                 "archived": false,
                 "id": 65600975,
                 "language": "Python",
-                "last_commit": "2026-08-23T15:11:05Z",
+                "last_commit": "2026-08-24T14:00:57Z",
                 "owner": "pytorch",
                 "repo": "pytorch",
-                "stars": 102554
+                "stars": 102575
               },
               "title": "PyTorch"
             }
@@ -1083,7 +1954,23 @@
         {
           "children": [
             {
-              "children": [],
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "rocketmq-rust",
+                  "description": "An Apache RocketMQ implementation written in Rust",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 731068194,
+                    "language": "Rust",
+                    "last_commit": "2026-08-24T13:40:01Z",
+                    "owner": "mxsm",
+                    "repo": "rocketmq-rust",
+                    "stars": 1505
+                  }
+                }
+              ],
               "description": null,
               "node_type": "item",
               "repo_info": {
@@ -1093,7 +1980,7 @@
                 "last_commit": "2026-08-20T05:50:36Z",
                 "owner": "apache",
                 "repo": "rocketmq",
-                "stars": 22562
+                "stars": 22567
               },
               "title": "Apache RocketMQ"
             }
@@ -1105,17 +1992,33 @@
         {
           "children": [
             {
-              "children": [],
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Tantivy",
+                  "description": "A full-text search engine library inspired by Apache Lucene and written in Rust",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 49412556,
+                    "language": "Rust",
+                    "last_commit": "2026-08-20T20:03:28Z",
+                    "owner": "quickwit-oss",
+                    "repo": "tantivy",
+                    "stars": 15974
+                  }
+                }
+              ],
               "description": null,
               "node_type": "item",
               "repo_info": {
                 "archived": false,
                 "id": 341631350,
                 "language": "Java",
-                "last_commit": "2026-08-22T13:31:38Z",
+                "last_commit": "2026-08-23T19:13:08Z",
                 "owner": "apache",
                 "repo": "lucene",
-                "stars": 3548
+                "stars": 3549
               },
               "title": "Apache Lucene"
             }
@@ -1129,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T15:11:42.254Z",
+    "last_updated": "2026-08-24T14:01:29.408Z",
     "original_repository": "TaKO8Ki/awesome-alternatives-in-rust",
     "original_repository_id": 370696816,
     "original_repository_sha": "b188b92fbbed280b395cc8a9ccb43e9f86b97794",
