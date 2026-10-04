@@ -37,27 +37,27 @@ I renamed the repository to "Awesome Alternatives in Rust". The original name wa
 
 ### Container
 
-#### [runc](https://github.com/opencontainers/runc) ⭐ 13,471 | 🐛 340 | 🌐 Go | 📅 2026-10-03
+#### [runc](https://github.com/opencontainers/runc) ⭐ 13,472 | 🐛 340 | 🌐 Go | 📅 2026-10-03
 
-* [youki](https://github.com/youki-dev/youki) ⭐ 7,619 | 🐛 171 | 🌐 Rust | 📅 2026-10-02 - An experimental container runtime written in Rust
+* [youki](https://github.com/youki-dev/youki) ⭐ 7,620 | 🐛 170 | 🌐 Rust | 📅 2026-10-04 - An experimental container runtime written in Rust
 
 ### Database
 
-#### [PostgreSQL](https://github.com/postgres/postgres) ⭐ 22,266 | 🐛 0 | 🌐 C | 📅 2026-10-03
+#### [PostgreSQL](https://github.com/postgres/postgres) ⭐ 22,278 | 🐛 0 | 🌐 C | 📅 2026-10-04
 
-* [pgrust](https://github.com/malisper/pgrust) ⭐ 5,222 | 🐛 28 | 🌐 Rust | 📅 2026-09-18 - Postgres rewritten in Rust, now passing 100% of the Postgres regression tests
+* [pgrust](https://github.com/malisper/pgrust) ⭐ 5,230 | 🐛 28 | 🌐 Rust | 📅 2026-09-18 - Postgres rewritten in Rust, now passing 100% of the Postgres regression tests
 
 ### Games
 
-#### [Stockfish](https://github.com/official-stockfish/Stockfish/) ⭐ 16,805 | 🐛 40 | 🌐 C++ | 📅 2026-09-30
+#### [Stockfish](https://github.com/official-stockfish/Stockfish/) ⭐ 16,823 | 🐛 40 | 🌐 C++ | 📅 2026-09-30
 
 * [Pleco](https://github.com/pleco-rs/Pleco) ⭐ 430 | 🐛 11 | 🌐 Rust | 📅 2026-02-22 - A Rust-based re-write of the Stockfish Chess Engine
 
 ### Observability
 
-#### [Elasticsearch](https://github.com/elastic/elasticsearch) ⭐ 78,183 | 🐛 6,132 | 🌐 Java | 📅 2026-10-03
+#### [Elasticsearch](https://github.com/elastic/elasticsearch) ⭐ 78,191 | 🐛 6,134 | 🌐 Java | 📅 2026-10-04
 
-* [Quickwit](https://github.com/quickwit-oss/quickwit) ⭐ 11,697 | 🐛 837 | 🌐 Rust | 📅 2026-10-03 - A cloud-native search engine for observability written in Rust
+* [Quickwit](https://github.com/quickwit-oss/quickwit) ⭐ 11,697 | 🐛 838 | 🌐 Rust | 📅 2026-10-04 - A cloud-native search engine for observability written in Rust
 
 ### Performance
 
@@ -69,7 +69,7 @@ I renamed the repository to "Awesome Alternatives in Rust". The original name wa
 
 #### autojump / z
 
-* [zoxide](https://github.com/ajeetdsouza/zoxide) ⭐ 39,857 | 🐛 146 | 🌐 Rust | 📅 2026-10-03 - A smarter cd command for your terminal.
+* [zoxide](https://github.com/ajeetdsouza/zoxide) ⭐ 39,869 | 🐛 144 | 🌐 Rust | 📅 2026-10-03 - A smarter cd command for your terminal.
 
 #### awk
 
@@ -77,7 +77,7 @@ I renamed the repository to "Awesome Alternatives in Rust". The original name wa
 
 #### bash/PowerShell/fish
 
-* [nushell](https://github.com/nushell/nushell/) ⭐ 40,619 | 🐛 1,465 | 🌐 Rust | 📅 2026-10-02 - An attractive structured shell
+* [nushell](https://github.com/nushell/nushell/) ⭐ 40,623 | 🐛 1,477 | 🌐 Rust | 📅 2026-10-04 - An attractive structured shell
 * [ion](https://github.com/redox-os/ion) ⭐ 1,656 | 🐛 60 | 🌐 Rust | 📅 2026-09-23 - A modern shell developed for RedoxOS. But is still capable on \*nix platforms.
 
 #### bc
@@ -87,13 +87,13 @@ I renamed the repository to "Awesome Alternatives in Rust". The original name wa
 
 #### cat
 
-* [bat](https://github.com/sharkdp/bat) ⭐ 60,657 | 🐛 539 | 🌐 Rust | 📅 2026-10-01 - A cat(1) clone with wings.
+* [bat](https://github.com/sharkdp/bat) ⭐ 60,671 | 🐛 540 | 🌐 Rust | 📅 2026-10-01 - A cat(1) clone with wings.
 
-#### [cloc](https://github.com/AlDanial/cloc) ⭐ 23,571 | 🐛 26 | 🌐 Perl | 📅 2026-09-20
+#### [cloc](https://github.com/AlDanial/cloc) ⭐ 23,573 | 🐛 26 | 🌐 Perl | 📅 2026-09-20
 
-* [tokei](https://github.com/XAMPPRocky/tokei) ⭐ 14,969 | 🐛 249 | 🌐 Rust | 📅 2026-09-06 - Count your code, quickly.
+* [tokei](https://github.com/XAMPPRocky/tokei) ⭐ 14,972 | 🐛 249 | 🌐 Rust | 📅 2026-09-06 - Count your code, quickly.
 
-#### [coreboot](https://github.com/coreboot/coreboot) ⭐ 2,800 | 🐛 0 | 🌐 C | 📅 2026-10-02
+#### [coreboot](https://github.com/coreboot/coreboot) ⭐ 2,801 | 🐛 0 | 🌐 C | 📅 2026-10-04
 
 * [oreboot](https://github.com/oreboot/oreboot) ⭐ 1,800 | 🐛 64 | 🌐 Rust | 📅 2026-07-13 - oreboot is a fork of coreboot, with C removed, written in Rust.
 
@@ -108,8 +108,8 @@ I renamed the repository to "Awesome Alternatives in Rust". The original name wa
 
 #### diff
 
-* [delta](https://github.com/dandavison/delta) ⭐ 32,408 | 🐛 465 | 🌐 Rust | 📅 2026-09-19 - A viewer for git and diff output
-* [difftastic](https://github.com/Wilfred/difftastic) ⭐ 25,969 | 🐛 287 | 🌐 Rust | 📅 2026-10-02 - A structural diff that understands syntax
+* [delta](https://github.com/dandavison/delta) ⭐ 32,417 | 🐛 464 | 🌐 Rust | 📅 2026-10-04 - A viewer for git and diff output
+* [difftastic](https://github.com/Wilfred/difftastic) ⭐ 25,977 | 🐛 288 | 🌐 Rust | 📅 2026-10-02 - A structural diff that understands syntax
 
 #### dig
 
@@ -117,55 +117,55 @@ I renamed the repository to "Awesome Alternatives in Rust". The original name wa
 
 #### du
 
-* [dust](https://github.com/bootandy/dust) ⭐ 12,460 | 🐛 12 | 🌐 Rust | 📅 2026-09-16 - A more intuitive version of du in rust
+* [dust](https://github.com/bootandy/dust) ⭐ 12,465 | 🐛 13 | 🌐 Rust | 📅 2026-09-16 - A more intuitive version of du in rust
 * [dua](https://github.com/Byron/dua-cli) ⭐ 6,320 | 🐛 1 | 🌐 Rust | 📅 2026-09-30 - View disk space usage and delete unwanted data, fast.
 
 #### find
 
-* [fd](https://github.com/sharkdp/fd) ⭐ 44,629 | 🐛 203 | 🌐 Rust | 📅 2026-10-03 - A simple, fast and user-friendly alternative to 'find'
+* [fd](https://github.com/sharkdp/fd) ⭐ 44,638 | 🐛 203 | 🌐 Rust | 📅 2026-10-03 - A simple, fast and user-friendly alternative to 'find'
 
-#### [fzf](https://github.com/junegunn/fzf) ⭐ 83,365 | 🐛 333 | 🌐 Go | 📅 2026-10-03
+#### [fzf](https://github.com/junegunn/fzf) ⭐ 83,378 | 🐛 333 | 🌐 Go | 📅 2026-10-03
 
-* [skim](https://github.com/skim-rs/skim) ⭐ 6,978 | 🐛 6 | 🌐 Rust | 📅 2026-10-03 - Fuzzy Finder in rust!
+* [skim](https://github.com/skim-rs/skim) ⭐ 6,979 | 🐛 6 | 🌐 Rust | 📅 2026-10-04 - Fuzzy Finder in rust!
 
-#### [GNU coreutils](https://github.com/coreutils/coreutils) ⭐ 5,316 | 🐛 14 | 🌐 C | 📅 2026-10-03
+#### [GNU coreutils](https://github.com/coreutils/coreutils) ⭐ 5,316 | 🐛 13 | 🌐 C | 📅 2026-10-04
 
-* [coreutils](https://github.com/uutils/coreutils) ⭐ 24,218 | 🐛 1,180 | 🌐 Rust | 📅 2026-10-03 - Cross-platform Rust rewrite of the GNU coreutils
+* [coreutils](https://github.com/uutils/coreutils) ⭐ 24,219 | 🐛 1,173 | 🌐 Rust | 📅 2026-10-04 - Cross-platform Rust rewrite of the GNU coreutils
 
 #### hexdump
 
 * [hexyl](https://github.com/sharkdp/hexyl) ⭐ 10,287 | 🐛 39 | 🌐 Rust | 📅 2026-04-30 - A command-line hex viewer
 
-#### [httpie](https://github.com/httpie/cli) ⭐ 38,626 | 🐛 345 | 🌐 Python | 📅 2024-12-17
+#### [httpie](https://github.com/httpie/cli) ⭐ 38,692 | 🐛 345 | 🌐 Python | 📅 2024-12-17
 
-* [xh](https://github.com/ducaale/xh) ⭐ 8,116 | 🐛 37 | 🌐 Rust | 📅 2026-09-05 - Friendly and fast tool for sending HTTP requests
+* [xh](https://github.com/ducaale/xh) ⭐ 8,115 | 🐛 37 | 🌐 Rust | 📅 2026-09-05 - Friendly and fast tool for sending HTTP requests
 
 #### ls
 
-* [eza](https://github.com/eza-community/eza) ⭐ 23,466 | 🐛 464 | 🌐 Rust | 📅 2026-08-06 - A replacement for 'ls'
-* [lsd](https://github.com/lsd-rs/lsd) ⭐ 16,250 | 🐛 210 | 🌐 Rust | 📅 2026-08-17 - An ls with a lot of pretty colors and awesome icons
+* [eza](https://github.com/eza-community/eza) ⭐ 23,475 | 🐛 464 | 🌐 Rust | 📅 2026-08-06 - A replacement for 'ls'
+* [lsd](https://github.com/lsd-rs/lsd) ⭐ 16,252 | 🐛 211 | 🌐 Rust | 📅 2026-08-17 - An ls with a lot of pretty colors and awesome icons
 * [nat](https://github.com/willdoescode/nat) ⭐ 1,264 | 🐛 0 | 🌐 Rust | 📅 2021-05-28 - `ls` alternative with useful info and a splash of color 🎨
 
-#### [nvm](https://github.com/nvm-sh/nvm) ⭐ 95,254 | 🐛 390 | 🌐 Shell | 📅 2026-09-30
+#### [nvm](https://github.com/nvm-sh/nvm) ⭐ 95,262 | 🐛 391 | 🌐 Shell | 📅 2026-09-30
 
-* [mise](https://github.com/jdx/mise) ⭐ 34,554 | 🐛 16 | 🌐 Rust | 📅 2026-10-03 - dev tools, env vars, task runner
-* [fnm](https://github.com/Schniz/fnm) ⭐ 27,015 | 🐛 248 | 🌐 Rust | 📅 2026-07-24 - 🚀 Fast and simple Node.js version manager, built in Rust
+* [mise](https://github.com/jdx/mise) ⭐ 34,578 | 🐛 12 | 🌐 Rust | 📅 2026-10-04 - dev tools, env vars, task runner
+* [fnm](https://github.com/Schniz/fnm) ⭐ 27,023 | 🐛 248 | 🌐 Rust | 📅 2026-07-24 - 🚀 Fast and simple Node.js version manager, built in Rust
 
-#### [Midnight Commander](https://github.com/MidnightCommander/mc) ⭐ 1,004 | 🐛 702 | 🌐 C | 📅 2026-09-29
+#### [Midnight Commander](https://github.com/MidnightCommander/mc) ⭐ 1,006 | 🐛 702 | 🌐 C | 📅 2026-09-29
 
-* [broot](https://github.com/Canop/broot) ⭐ 13,035 | 🐛 101 | 🌐 Rust | 📅 2026-10-03 - A better way to navigate directories
+* [broot](https://github.com/Canop/broot) ⭐ 13,037 | 🐛 102 | 🌐 Rust | 📅 2026-10-04 - A better way to navigate directories
 
 #### ps
 
-* [procs](https://github.com/dalance/procs) ⭐ 6,187 | 🐛 39 | 🌐 Rust | 📅 2026-09-22 - A modern replacement for ps written in Rust
+* [procs](https://github.com/dalance/procs) ⭐ 6,188 | 🐛 39 | 🌐 Rust | 📅 2026-09-22 - A modern replacement for ps written in Rust
 
-#### [rbenv](https://github.com/rbenv/rbenv) ⭐ 16,734 | 🐛 17 | 🌐 Shell | 📅 2026-07-14
+#### [rbenv](https://github.com/rbenv/rbenv) ⭐ 16,734 | 🐛 18 | 🌐 Shell | 📅 2026-07-14
 
 * [frum](https://github.com/TaKO8Ki/frum) ⭐ 656 | 🐛 36 | 🌐 Rust | 📅 2022-05-13 - A little bit fast and modern Ruby version manager written in Rust
 
 #### rename
 
-* [rnr](https://github.com/ismaelgv/rnr) ⭐ 597 | 🐛 12 | 🌐 Rust | 📅 2026-03-21 - A command-line tool to batch rename files and directories
+* [rnr](https://github.com/ismaelgv/rnr) ⭐ 598 | 🐛 13 | 🌐 Rust | 📅 2026-03-21 - A command-line tool to batch rename files and directories
 
 #### rm
 
@@ -190,18 +190,18 @@ I renamed the repository to "Awesome Alternatives in Rust". The original name wa
 
 #### time
 
-* [hyperfine](https://github.com/sharkdp/hyperfine) ⭐ 28,939 | 🐛 96 | 🌐 Rust | 📅 2026-10-02 - A command-line benchmarking tool
+* [hyperfine](https://github.com/sharkdp/hyperfine) ⭐ 28,944 | 🐛 96 | 🌐 Rust | 📅 2026-10-02 - A command-line benchmarking tool
 
-#### [tldr](https://github.com/tldr-pages/tldr) ⭐ 63,813 | 🐛 257 | 🌐 Markdown | 📅 2026-10-03
+#### [tldr](https://github.com/tldr-pages/tldr) ⭐ 63,815 | 🐛 260 | 🌐 Markdown | 📅 2026-10-04
 
-* [navi](https://github.com/denisidoro/navi) ⭐ 17,709 | 🐛 113 | 🌐 Rust | 📅 2026-09-20 - An interactive cheatsheet tool for the command-line
-* [tealdeer](https://github.com/tealdeer-rs/tealdeer) ⭐ 6,569 | 🐛 17 | 🌐 Rust | 📅 2026-08-25 - A very fast implementation of tldr in Rust.
-* [intelli-shell](https://github.com/lasantosr/intelli-shell) ⭐ 1,295 | 🐛 13 | 🌐 Rust | 📅 2026-07-26 - Like IntelliSense, but for shells
+* [navi](https://github.com/denisidoro/navi) ⭐ 17,714 | 🐛 114 | 🌐 Rust | 📅 2026-09-20 - An interactive cheatsheet tool for the command-line
+* [tealdeer](https://github.com/tealdeer-rs/tealdeer) ⭐ 6,574 | 🐛 17 | 🌐 Rust | 📅 2026-08-25 - A very fast implementation of tldr in Rust.
+* [intelli-shell](https://github.com/lasantosr/intelli-shell) ⭐ 1,294 | 🐛 13 | 🌐 Rust | 📅 2026-07-26 - Like IntelliSense, but for shells
 
 #### top
 
-* [bottom](https://github.com/ClementTsang/bottom) ⭐ 14,084 | 🐛 103 | 🌐 Rust | 📅 2026-10-03 - Yet another cross-platform graphical process/system monitor.
-* [zenith](https://github.com/bvaisvil/zenith) ⭐ 3,055 | 🐛 40 | 🌐 Rust | 📅 2026-10-01 - A terminal system monitor with zoomable charts
+* [bottom](https://github.com/ClementTsang/bottom) ⭐ 14,086 | 🐛 103 | 🌐 Rust | 📅 2026-10-04 - Yet another cross-platform graphical process/system monitor.
+* [zenith](https://github.com/bvaisvil/zenith) ⭐ 3,056 | 🐛 40 | 🌐 Rust | 📅 2026-10-01 - A terminal system monitor with zoomable charts
 * [ytop](https://github.com/cjbassi/ytop) ⚠️ Archived (no longer maintained) - A TUI system monitor written in Rust
 
 #### uniq
@@ -212,37 +212,37 @@ I renamed the repository to "Awesome Alternatives in Rust". The original name wa
 
 * [rargs](https://github.com/lotabout/rargs) ⭐ 573 | 🐛 12 | 🌐 Rust | 📅 2023-07-30 - A kind of xargs + awk with pattern-matching support.
 
-#### [yay](https://github.com/Jguer/yay) ⭐ 13,771 | 🐛 203 | 🌐 Go | 📅 2026-09-26
+#### [yay](https://github.com/Jguer/yay) ⭐ 13,772 | 🐛 205 | 🌐 Go | 📅 2026-09-26
 
-* [paru](https://github.com/Morganamilo/paru) ⭐ 9,008 | 🐛 208 | 🌐 Rust | 📅 2026-01-09 - Feature packed AUR helper
+* [paru](https://github.com/Morganamilo/paru) ⭐ 9,009 | 🐛 208 | 🌐 Rust | 📅 2026-01-09 - Feature packed AUR helper
 
 ### Terminal
 
-#### [Spaceship](https://github.com/spaceship-prompt/spaceship-prompt) ⭐ 20,579 | 🐛 130 | 🌐 Shell | 📅 2026-09-02
+#### [Spaceship](https://github.com/spaceship-prompt/spaceship-prompt) ⭐ 20,580 | 🐛 130 | 🌐 Shell | 📅 2026-09-02
 
-* [starship](https://github.com/starship/starship) ⭐ 60,137 | 🐛 1,058 | 🌐 Rust | 📅 2026-10-03 - ☄️🌌 The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+* [starship](https://github.com/starship/starship) ⭐ 60,149 | 🐛 1,058 | 🌐 Rust | 📅 2026-10-04 - ☄️🌌 The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 
 #### [termite](https://github.com/thestinger/termite) ⚠️ Archived
 
-* [Alacritty](https://github.com/alacritty/alacritty) ⭐ 65,883 | 🐛 342 | 🌐 Rust | 📅 2026-08-31 - A cross-platform, OpenGL terminal emulator.
-* [WezTerm](https://github.com/wezterm/wezterm) ⭐ 29,108 | 🐛 1,902 | 🌐 Rust | 📅 2026-09-29 - A GPU-accelerated cross-platform terminal emulator and multiplexer
+* [Alacritty](https://github.com/alacritty/alacritty) ⭐ 65,887 | 🐛 342 | 🌐 Rust | 📅 2026-08-31 - A cross-platform, OpenGL terminal emulator.
+* [WezTerm](https://github.com/wezterm/wezterm) ⭐ 29,119 | 🐛 1,903 | 🌐 Rust | 📅 2026-09-29 - A GPU-accelerated cross-platform terminal emulator and multiplexer
 
-#### [tmux](https://github.com/tmux/tmux) ⭐ 49,658 | 🐛 47 | 🌐 C | 📅 2026-10-03
+#### [tmux](https://github.com/tmux/tmux) ⭐ 49,735 | 🐛 50 | 🌐 C | 📅 2026-10-04
 
-* [Zellij](https://github.com/zellij-org/zellij) ⭐ 35,633 | 🐛 1,945 | 🌐 Rust | 📅 2026-10-02 - A terminal workspace with batteries included
+* [Zellij](https://github.com/zellij-org/zellij) ⭐ 35,647 | 🐛 1,945 | 🌐 Rust | 📅 2026-10-04 - A terminal workspace with batteries included
 
 ### Text editors
 
 #### Vim
 
-* [Helix](https://github.com/helix-editor/helix) ⭐ 46,450 | 🐛 1,707 | 🌐 Rust | 📅 2026-09-29 - A post-modern modal text editor
+* [Helix](https://github.com/helix-editor/helix) ⭐ 46,461 | 🐛 1,709 | 🌐 Rust | 📅 2026-09-29 - A post-modern modal text editor
 * [Amp](https://github.com/jmacdonald/amp) ⭐ 4,131 | 🐛 95 | 🌐 Rust | 📅 2026-06-10 - A complete text editor for your terminal.
 
 ### Text processing
 
 #### grep
 
-* [ripgrep](https://github.com/BurntSushi/ripgrep) ⭐ 68,808 | 🐛 201 | 🌐 Rust | 📅 2026-08-04 - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+* [ripgrep](https://github.com/BurntSushi/ripgrep) ⭐ 68,834 | 🐛 201 | 🌐 Rust | 📅 2026-08-04 - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 
 ### Utilities
 
@@ -250,13 +250,13 @@ I renamed the repository to "Awesome Alternatives in Rust". The original name wa
 
 * [fastmod](https://github.com/facebookincubator/fastmod) ⭐ 1,931 | 🐛 16 | 🌐 Rust | 📅 2026-07-28 - A fast partial replacement for the codemod tool
 
-#### [jq](https://github.com/jqlang/jq) ⭐ 35,739 | 🐛 430 | 🌐 C | 📅 2026-10-01
+#### [jq](https://github.com/jqlang/jq) ⭐ 35,744 | 🐛 431 | 🌐 C | 📅 2026-10-01
 
 * [jql](https://github.com/yamafaktory/jql) ⭐ 1,683 | 🐛 0 | 🌐 Rust | 📅 2026-09-08 - A JSON Query Language CLI tool built with Rust 🦀
 
-#### [lazygit](https://github.com/jesseduffield/lazygit) ⭐ 82,872 | 🐛 1,064 | 🌐 Go | 📅 2026-10-01
+#### [lazygit](https://github.com/jesseduffield/lazygit) ⭐ 82,889 | 🐛 1,062 | 🌐 Go | 📅 2026-10-04
 
-* [gitui](https://github.com/gitui-org/gitui) ⭐ 22,545 | 🐛 348 | 🌐 Rust | 📅 2026-08-04 - Blazing fast terminal-ui for git written in Rust 🦀
+* [gitui](https://github.com/gitui-org/gitui) ⭐ 22,548 | 🐛 348 | 🌐 Rust | 📅 2026-08-04 - Blazing fast terminal-ui for git written in Rust 🦀
 
 #### [Toggl Track](https://github.com/toggl/toggldesktop) ⭐ 126 | 🐛 0 | 🌐 JavaScript | 📅 2020-09-30
 
@@ -278,54 +278,54 @@ I renamed the repository to "Awesome Alternatives in Rust". The original name wa
 
 #### make
 
-* [just](https://github.com/casey/just) ⭐ 36,113 | 🐛 172 | 🌐 Rust | 📅 2026-10-02 - A command runner and partial replacement for `make`
+* [just](https://github.com/casey/just) ⭐ 36,123 | 🐛 172 | 🌐 Rust | 📅 2026-10-02 - A command runner and partial replacement for `make`
 
 ### Compilers
 
-#### [TypeScript Compiler](https://github.com/microsoft/TypeScript) ⭐ 111,326 | 🐛 5,053 | 🌐 Go | 📅 2026-10-03
+#### [TypeScript Compiler](https://github.com/microsoft/TypeScript) ⭐ 111,335 | 🐛 5,057 | 🌐 Go | 📅 2026-10-03
 
-* [SWC](https://github.com/swc-project/swc) ⭐ 34,212 | 🐛 394 | 🌐 Rust | 📅 2026-10-03 - A Rust-based platform for the web
+* [SWC](https://github.com/swc-project/swc) ⭐ 34,213 | 🐛 394 | 🌐 Rust | 📅 2026-10-04 - A Rust-based platform for the web
 
 ### Linters
 
-#### [ESLint](https://github.com/eslint/eslint) ⭐ 27,531 | 🐛 127 | 🌐 JavaScript | 📅 2026-10-02
+#### [ESLint](https://github.com/eslint/eslint) ⭐ 27,564 | 🐛 127 | 🌐 JavaScript | 📅 2026-10-04
 
-* [RSLint](https://github.com/rslint/rslint) ⭐ 2,729 | 🐛 41 | 🌐 Rust | 📅 2023-03-05 - A (WIP) Extremely fast JavaScript and TypeScript linter and Rust crate
-* [deno\_lint](https://github.com/denoland/deno_lint) ⭐ 1,583 | 🐛 167 | 🌐 Rust | 📅 2026-09-25 - Blazing fast linter for JavaScript and TypeScript written in Rust
+* [RSLint](https://github.com/rslint/rslint) ⭐ 2,727 | 🐛 41 | 🌐 Rust | 📅 2023-03-05 - A (WIP) Extremely fast JavaScript and TypeScript linter and Rust crate
+* [deno\_lint](https://github.com/denoland/deno_lint) ⭐ 1,583 | 🐛 168 | 🌐 Rust | 📅 2026-09-25 - Blazing fast linter for JavaScript and TypeScript written in Rust
 
 #### [Flake8](https://github.com/PyCQA/flake8) ⭐ 3,825 | 🐛 24 | 🌐 Python | 📅 2026-09-29
 
-* [Ruff](https://github.com/astral-sh/ruff) ⭐ 49,889 | 🐛 2,191 | 🌐 Rust | 📅 2026-10-03 - An extremely fast Python linter and code formatter written in Rust
+* [Ruff](https://github.com/astral-sh/ruff) ⭐ 49,903 | 🐛 2,194 | 🌐 Rust | 📅 2026-10-04 - An extremely fast Python linter and code formatter written in Rust
 
-#### [Prettier](https://github.com/prettier/prettier) ⭐ 52,314 | 🐛 1,468 | 🌐 JavaScript | 📅 2026-10-03
+#### [Prettier](https://github.com/prettier/prettier) ⭐ 52,344 | 🐛 1,466 | 🌐 JavaScript | 📅 2026-10-04
 
-* [dprint](https://github.com/dprint/dprint) ⭐ 4,087 | 🐛 69 | 🌐 Rust | 📅 2026-10-03 - Pluggable and configurable code formatting platform written in Rust.
+* [dprint](https://github.com/dprint/dprint) ⭐ 4,088 | 🐛 55 | 🌐 Rust | 📅 2026-10-04 - Pluggable and configurable code formatting platform written in Rust.
 
-#### [ShellCheck](https://github.com/koalaman/shellcheck) ⭐ 40,121 | 🐛 1,109 | 🌐 Haskell | 📅 2026-10-03
+#### [ShellCheck](https://github.com/koalaman/shellcheck) ⭐ 40,128 | 🐛 1,108 | 🌐 Haskell | 📅 2026-10-03
 
 * [Shellharden](https://github.com/anordal/shellharden) ⭐ 4,806 | 🐛 10 | 🌐 Rust | 📅 2026-07-09 - The corrective bash syntax highlighter
 
 ### Runtimes
 
-#### [Node.js](https://github.com/nodejs/node) ⭐ 122,251 | 🐛 1,166 | 🌐 JavaScript | 📅 2026-10-03
+#### [Node.js](https://github.com/nodejs/node) ⭐ 122,325 | 🐛 1,175 | 🌐 JavaScript | 📅 2026-10-04
 
-* [Deno](https://github.com/denoland/deno) ⭐ 108,571 | 🐛 1,653 | 🌐 Rust | 📅 2026-10-01 - A modern runtime for JavaScript and TypeScript written in Rust
+* [Deno](https://github.com/denoland/deno) ⭐ 108,633 | 🐛 1,658 | 🌐 Rust | 📅 2026-10-01 - A modern runtime for JavaScript and TypeScript written in Rust
 
-#### [Python](https://github.com/python/cpython) ⭐ 77,417 | 🐛 9,750 | 🌐 Python | 📅 2026-10-03
+#### [Python](https://github.com/python/cpython) ⭐ 77,487 | 🐛 9,773 | 🌐 Python | 📅 2026-10-04
 
-* [RustPython](https://github.com/RustPython/RustPython) ⭐ 22,375 | 🐛 403 | 🌐 Rust | 📅 2026-10-02 - A Python interpreter written in Rust
+* [RustPython](https://github.com/RustPython/RustPython) ⭐ 22,376 | 🐛 407 | 🌐 Rust | 📅 2026-10-04 - A Python interpreter written in Rust
 
 ## Libraries
 
 ### Email
 
-#### [mjml](https://github.com/mjmlio/mjml) ⭐ 18,253 | 🐛 50 | 🌐 JavaScript | 📅 2026-10-01
+#### [mjml](https://github.com/mjmlio/mjml) ⭐ 18,252 | 🐛 50 | 🌐 JavaScript | 📅 2026-10-01
 
 * [mrml](https://github.com/jdrouet/mrml) ⭐ 510 | 🐛 28 | 🌐 HTML | 📅 2026-09-29 - Blazing fast reimplementation of mjml in Rust (\~200x faster)
 
 ### Machine learning
 
-#### [PyTorch](https://github.com/pytorch/pytorch) ⭐ 103,667 | 🐛 17,594 | 🌐 Python | 📅 2026-10-03
+#### [PyTorch](https://github.com/pytorch/pytorch) ⭐ 103,755 | 🐛 17,609 | 🌐 Python | 📅 2026-10-04
 
 * [tch-rs](https://github.com/LaurentMazare/tch-rs) ⭐ 5,498 | 🐛 278 | 🌐 Rust | 📅 2026-08-23 - Rust bindings for the C++ API of PyTorch
 
@@ -333,14 +333,14 @@ I renamed the repository to "Awesome Alternatives in Rust". The original name wa
 
 #### [Apache RocketMQ](https://github.com/apache/rocketmq) ⭐ 22,624 | 🐛 777 | 🌐 Java | 📅 2026-10-03
 
-* [rocketmq-rust](https://github.com/mxsm/rocketmq-rust) ⭐ 1,523 | 🐛 19 | 🌐 Rust | 📅 2026-10-03 - An Apache RocketMQ implementation written in Rust
+* [rocketmq-rust](https://github.com/mxsm/rocketmq-rust) ⭐ 1,522 | 🐛 25 | 🌐 Rust | 📅 2026-10-04 - An Apache RocketMQ implementation written in Rust
 
 ### Search
 
-#### [Apache Lucene](https://github.com/apache/lucene) ⭐ 3,572 | 🐛 2,664 | 🌐 Java | 📅 2026-10-02
+#### [Apache Lucene](https://github.com/apache/lucene) ⭐ 3,572 | 🐛 2,664 | 🌐 Java | 📅 2026-10-04
 
-* [Tantivy](https://github.com/quickwit-oss/tantivy) ⭐ 16,179 | 🐛 466 | 🌐 Rust | 📅 2026-10-02 - A full-text search engine library inspired by Apache Lucene and written in Rust
+* [Tantivy](https://github.com/quickwit-oss/tantivy) ⭐ 16,183 | 🐛 465 | 🌐 Rust | 📅 2026-10-02 - A full-text search engine library inspired by Apache Lucene and written in Rust
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
